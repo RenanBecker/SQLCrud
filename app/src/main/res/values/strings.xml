@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLCrud</string>
+    <string name="Nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="vizinho">Vizinho</string>
+    <string name="vertodos">Ver Todos</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
